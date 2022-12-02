@@ -10,7 +10,7 @@
   RewriteEngine On
 
   # rewriteBase is our root URL, so everyother web is coming from /travis/public
-  RewriteBase /cesar/public
+  RewriteBase /Cesar-Paredes/public
 
 
   # if the file or directory is not found, ex. /public/test.php is not found then 
