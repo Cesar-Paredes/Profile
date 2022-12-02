@@ -1,0 +1,23 @@
+# sets the url root
+# redirects all paths to index.php ? url $var
+
+<IfModule mod_rewrite.c>
+
+# multiviews is disable with "-" avoiding confusion by having /test or /test.php
+  Options -Multiviews
+
+  # this will turn on the rewrite engine
+  RewriteEngine On
+
+  # rewriteBase is our root URL, so everyother web is coming from /travis/public
+  RewriteBase /cesar/public
+
+
+  # if the file or directory is not found, ex. /public/test.php is not found then 
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+
+  # then it will continue to this rewrite rule, which is routing everything through index.php
+  # so we can do  /public/post when in reality it would be /public?url=post 
+  RewriteRule  ^(.+)$ index.php?url=$1 [QSA,L]
+</IfModule>
