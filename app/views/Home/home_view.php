@@ -42,7 +42,7 @@
     <h1>Cesar Paredes</h1>
     <p>"Curiosity brought me here and what I found is the reason I stayed"</p>
     <!-- <img src='../public/images/profile_picture.png' class="img-responsive" style="width:100%" alt="Image"> -->
-    <img src="../cesar/public/images/profile_picture.png" class="rounded" alt="Cinque Terre" width="150" height="236"> 
+    <img src="../Cesar-Paredes/public/images/profile_picture.png" class="rounded" alt="Cinque Terre" width="150" height="236"> 
     <p>Software Developer</p>
     
     <h3>🧰 Languages and Tools:</h3>
@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </p>
     
-    <img src="../cesar/public/images/git.png" alt="Git" width="55" height="25"/>
+    <img src="../Cesar-Paredes/public/images/git.png" alt="Git" width="55" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
   </div>
@@ -81,18 +81,18 @@
 <div class="row">
   
   <div class="column">
-  <a href="http://138.197.150.253:8080/RealEstateREST/RealEstateForm.jsp" target="_blank" rel="noreferrer"><img src="../cesar/public/images/calculator2.jpg" alt="calculator" style="width:100%" >
+  <a href="http://138.197.150.253:8080/RealEstateREST/RealEstateForm.jsp" target="_blank" rel="noreferrer"><img src="../Cesar-Paredes/public/images/calculator2.jpg" alt="calculator" style="width:100%" >
     <h4>Real Estate Calculator</h4>
   </a> 
   </div>
 
   <div class="column">
-    <img src="../cesar/public/images/note.png" alt="Forest" style="width:100%">
+    <img src="../Cesar-Paredes/public/images/note.png" alt="Forest" style="width:100%">
     <h4>Notes(Coming soon)</h4>
   </div>
 
   <div class="column">
-  <a href="https://github.com/Cesar-Paredes" target="_blank" rel="noreferrer"><img src="../cesar/public/images/blackGit.png" alt="Github" style="width:100%">
+  <a href="https://github.com/Cesar-Paredes" target="_blank" rel="noreferrer"><img src="../Cesar-Paredes/public/images/blackGit.png" alt="Github" style="width:100%">
     <h4>GitHub projects</h4>
     </a> 
   </div>

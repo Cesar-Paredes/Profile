@@ -21,7 +21,7 @@
 
 
   <!-- CSS -->
-  <link rel="stylesheet" href='../../../cesar/public/css/style.css'>
+  <link rel="stylesheet" href='../../../Cesar-Paredes/public/css/style.css'>
 
   
   <style>
@@ -59,7 +59,7 @@
     .text-center{
       background-color: black;
       font-family: 'TheGoodMonolith', sans-serif;
-      color: green;
+      color: rgb(112, 209, 8);
 
     }
 
